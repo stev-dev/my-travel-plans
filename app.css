@@ -28,7 +28,7 @@ body {
 }
 
 .destination {
-    background: #03a9f4;
+    background: #02e7f4;
     box-shadow: 0 1px 9px 0 rgba(0, 0, 0, 0.4);
     color: white;
     margin: 0.5em;
@@ -43,13 +43,15 @@ body {
 h2 {
     margin: 0;
     transform: rotate(-45deg);
-    text-shadow: 0 0 5px #01579b;
+    
 }
 
 #florida {
     background-color: #03a9f4;
+    text-shadow: 0 0 5px #02e7f4;
 }
 
 #paris {
     background-color: #d32f2f;
+    text-shadow: 0 0 5px #d32f2f;
 }
